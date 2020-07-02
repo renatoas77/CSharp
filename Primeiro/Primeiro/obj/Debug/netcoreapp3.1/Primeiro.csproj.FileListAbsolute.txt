@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Doc\Algoritmos\CSharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
