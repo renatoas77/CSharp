@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfo.cs
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.exe
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.deps.json
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.json
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.dev.json
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.dll
+E:\Doc\Algoritmos\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.pdb
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.dll
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.pdb
+E:\Doc\Algoritmos\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.genruntimeconfig.cache

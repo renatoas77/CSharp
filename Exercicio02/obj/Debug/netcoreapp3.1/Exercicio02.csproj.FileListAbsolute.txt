@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfo.cs
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.exe
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.deps.json
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.json
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.dll
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.pdb
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.dll
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.pdb
+E:\Doc\Algoritmos\CursoDeC--\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.genruntimeconfig.cache
