@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.exe
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.deps.json
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.dll
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\bin\Debug\netcoreapp3.1\Exercicios02_02.pdb
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.dll
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.pdb
+E:\Doc\Algoritmos\CSharp\Exercicios02_02\obj\Debug\netcoreapp3.1\Exercicios02_02.genruntimeconfig.cache

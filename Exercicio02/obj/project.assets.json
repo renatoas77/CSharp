@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Doc\\Algoritmos\\CursoDeC--\\Exercicio02\\Exercicio02.csproj",
+      "projectUniqueName": "E:\\Doc\\Algoritmos\\CSharp\\Exercicio02\\Exercicio02.csproj",
       "projectName": "Exercicio02",
-      "projectPath": "E:\\Doc\\Algoritmos\\CursoDeC--\\Exercicio02\\Exercicio02.csproj",
+      "projectPath": "E:\\Doc\\Algoritmos\\CSharp\\Exercicio02\\Exercicio02.csproj",
       "packagesPath": "C:\\Users\\Blaze\\.nuget\\packages\\",
-      "outputPath": "E:\\Doc\\Algoritmos\\CursoDeC--\\Exercicio02\\obj\\",
+      "outputPath": "E:\\Doc\\Algoritmos\\CSharp\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blaze\\AppData\\Roaming\\NuGet\\NuGet.Config",
