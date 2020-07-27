@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.exe
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.deps.json
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.dll
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.pdb
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.dll
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.pdb
+E:\Doc\Algoritmos\CSharp\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.genruntimeconfig.cache
