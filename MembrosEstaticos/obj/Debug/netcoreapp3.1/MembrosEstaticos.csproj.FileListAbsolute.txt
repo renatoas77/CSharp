@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+E:\Doc\Algoritmos\CSharp\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.exe
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.deps.json
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.dll
+E:\Doc\Algoritmos\CSharp\Problema\bin\Debug\netcoreapp3.1\Problema.pdb
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.dll
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.pdb
+E:\Doc\Algoritmos\CSharp\Problema\obj\Debug\netcoreapp3.1\Problema.genruntimeconfig.cache

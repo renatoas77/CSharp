@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.exe
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.deps.json
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.dll
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\bin\Debug\netcoreapp3.1\ExerciciosPOO01.pdb
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.dll
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.pdb
+E:\Doc\Algoritmos\CSharp\ExerciciosPOO01\obj\Debug\netcoreapp3.1\ExerciciosPOO01.genruntimeconfig.cache

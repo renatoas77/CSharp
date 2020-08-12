@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.exe
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.deps.json
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.dll
+E:\Doc\Algoritmos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.pdb
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.dll
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.pdb
+E:\Doc\Algoritmos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.genruntimeconfig.cache
