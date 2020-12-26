@@ -1,0 +1,13 @@
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csprojAssemblyReference.cache
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfoInputs.cache
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfo.cs
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csproj.CoreCompileInputs.cache
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.exe
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.deps.json
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.json
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.dev.json
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.dll
+E:\Doc\Algoritmos\CSharp\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.pdb
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.dll
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.pdb
+E:\Doc\Algoritmos\CSharp\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.genruntimeconfig.cache
